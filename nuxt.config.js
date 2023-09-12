@@ -1,7 +1,17 @@
 export default {
+
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        name: 'vindeenclub',
+        path: '/vindeenclub',
+        component: resolve(__dirname, 'pages/vindeenclub.vue'),
+      });
+    },
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'hackaton-1',
+    title: 'Gym Hackathon',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

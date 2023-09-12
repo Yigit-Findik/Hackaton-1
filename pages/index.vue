@@ -1,8 +1,8 @@
 <template>
   <div>
     <!-- Rest of your index page content -->
-    <div class="container mx-auto p-4">
-      <h1 class="text-3xl font-semibold">Welcome to Our Gym Website</h1>
+    <div class="container mx-auto py-4 px-10">
+      <h1 class="text-3xl font-bold">Welcome to Our Gym Website</h1>
       <!-- Add your content here -->
     </div>
   </div>

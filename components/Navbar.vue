@@ -1,5 +1,5 @@
 <template>
-    <nav class="bg-gray-800 py-4">
+    <nav class="bg-gray-800 py-4 px-10">
       <div class="container mx-auto">
         <div class="flex justify-between items-center">
           <div>
@@ -7,7 +7,7 @@
           </div>
           <div class="space-x-4">
             <nuxt-link to="/" class="text-white">Home</nuxt-link>
-            <nuxt-link to="/page1" class="text-white">Page 1</nuxt-link>
+            <nuxt-link to="/vindeenclub" class="text-white">Vind een club</nuxt-link>
             <nuxt-link to="/page2" class="text-white">Page 2</nuxt-link>
           </div>
         </div>
