@@ -14,14 +14,17 @@
     <nuxt-link to="/overons" class="text-white bg-[#42D2F2] hover:bg-[#42bdf2] duration-300 p-3 rounded-lg">Word lid!</nuxt-link>
     </div>
   </div>
-  <div class="border-2 rounded-xl p-5 text-center text-white h-fit text-xl border-yellow-400">
-    <p>Small but regular workout effort leads you to beauty and self-confidence.
+  <div class=" text-white h-fit text-xl ">
+    <p class="border-2 rounded-xl p-5 text-center border-yellow-400">Small but regular workout effort leads you to beauty and self-confidence.
 Set your own routine and conditions of training. 
 Choose the program that boosts your results . 
 Take the chance to get pround of yourself.
  Let you body feel the way of perfection</p>
+ 
+ <img src="https://pngimg.com/d/fitness_PNG113.png" alt="Image Description">
   </div>
 </div>
+
   </div>
 </template>
 
