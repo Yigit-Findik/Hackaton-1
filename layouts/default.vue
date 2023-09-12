@@ -1,7 +1,7 @@
-<template>
-    <div>
+<template class="">
+    <div class="">
       <Navbar /> <!-- Include the Navbar.vue component -->
-      <nuxt />
+      <nuxt class="" />
     </div>
   </template>
   

@@ -1,10 +1,27 @@
 <template>
   <div>
     <!-- Rest of your index page content -->
-    <div class="container mx-auto py-4 px-10">
-      <h1 class="text-3xl font-bold">Welcome to Our Gym Website</h1>
-      <!-- Add your content here -->
+    <div class="container py-4 px-10  grid grid-cols-2">
+      <div class="uppercase">
+      <div class="">
+      <h1 class="text-7xl font-bold text-orange">Sport tijdelijk</h1>
     </div>
+    <div class=" w-fit whitespace-nowrap">
+      <h1 class="text-7xl font-bold">voor maar € 9,99</h1>
+      <h2 class="text-lg font-bold flex flex-item-end">/4 weken</h2>
+    </div>
+    <div class="py-10">
+    <nuxt-link to="/overons" class="text-white bg-[#42D2F2] hover:bg-[#42bdf2] duration-300 p-3 rounded-lg">Word lid!</nuxt-link>
+    </div>
+  </div>
+  <div class="border-2 rounded-xl p-5 text-center text-white h-fit text-xl border-yellow-400">
+    <p>Small but regular workout effort leads you to beauty and self-confidence.
+Set your own routine and conditions of training. 
+Choose the program that boosts your results . 
+Take the chance to get pround of yourself.
+ Let you body feel the way of perfection</p>
+  </div>
+</div>
   </div>
 </template>
 
