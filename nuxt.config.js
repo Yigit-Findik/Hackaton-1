@@ -6,6 +6,10 @@ export default {
         name: 'vindeenclub',
         path: '/vindeenclub',
         component: resolve(__dirname, 'pages/vindeenclub.vue'),
+        name: 'begeleiding',
+        path: '/begeleiding',
+        component: resolve(__dirname, 'pages/begeleiding.vue'),
+        
       });
     },
   },
