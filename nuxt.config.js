@@ -9,6 +9,12 @@ export default {
         name: 'begeleiding',
         path: '/begeleiding',
         component: resolve(__dirname, 'pages/begeleiding.vue'),
+        name: 'prijzen',
+        path: '/prijzen',
+        component: resolve(__dirname, 'pages/prijzen.vue'),
+        name: 'overons',
+        path: '/overons',
+        component: resolve(__dirname, 'pages/overons.vue'),
         
       });
     },
