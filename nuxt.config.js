@@ -1,7 +1,27 @@
 export default {
+
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        name: 'vindeenclub',
+        path: '/vindeenclub',
+        component: resolve(__dirname, 'pages/vindeenclub.vue'),
+        name: 'begeleiding',
+        path: '/begeleiding',
+        component: resolve(__dirname, 'pages/begeleiding.vue'),
+        name: 'prijzen',
+        path: '/prijzen',
+        component: resolve(__dirname, 'pages/prijzen.vue'),
+        name: 'overons',
+        path: '/overons',
+        component: resolve(__dirname, 'pages/overons.vue'),
+        
+      });
+    },
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'hackaton-1',
+    title: 'Gym Hackathon',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
