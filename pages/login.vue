@@ -11,6 +11,10 @@
         <input type="password" id="password" v-model="password" required />
       </div>
       <button type="submit">Login</button>
+      <div class="login-links">
+        <a href="/">Forgot Password</a>
+        <a href="register">Register</a>
+      </div>
     </form>
   </div>
 </template>
@@ -76,5 +80,10 @@ button {
 
 button:hover {
   background-color: #0056b3;
+}
+
+.login-links a {
+  display: block;
+  color: #0056b3;
 }
 </style>
