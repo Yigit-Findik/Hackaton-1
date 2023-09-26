@@ -11,7 +11,7 @@
       <div class="py-10 gap-5">
         <div class="py-5">
         <b class="text-xl">Lorem ipsum</b>
-    </div>
+      </div>
         <div class=""><p>Lorem ipsum dolor sit amet. Ab aliquam mollitia ad aliquam saepe vel asperiores repudiandae qui voluptas quod aut ipsam voluptas 33 esse velit. Sit enim corporis qui mollitia consequatur qui voluptas voluptatem et delectus voluptas quo facilis odio. </p>
         <p>Aut ducimus cumque ut quia suscipit non dolor commodi. Ea autem expedita sit porro reprehenderit id quos maxime ab explicabo doloremque et possimus sunt qui voluptatem enim est molestiae sequi. </p>
         <p>Qui inventore dolor et explicabo quas et repudiandae voluptatem qui corrupti libero id nobis libero. Ea aliquid voluptates ut perferendis omnis ut reiciendis excepturi vel quidem officiis. Qui impedit praesentium qui consequatur corrupti eos galisum dignissimos eos sint molestiae ab alias esse. Nam assumenda nulla id cupiditate eveniet ex modi nesciunt ut exercitationem voluptatem. </p>
