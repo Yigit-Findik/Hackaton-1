@@ -21,7 +21,7 @@
     "vue-template-compiler": "^2.7.10"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^5.3.3",
+    "@nuxtjs/tailwindcss": "^6.8.1",
     "autoprefixer": "^10.4.15",
     "eslint-config-prettier": "^8.5.0",
     "postcss": "^8.4.29",
